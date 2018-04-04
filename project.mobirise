@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "pamperhouse",
-    "currentPage": "about-me",
+    "currentPage": "home",
     "theme": {
       "name": "hotelm4",
       "title": "HotelM4",
