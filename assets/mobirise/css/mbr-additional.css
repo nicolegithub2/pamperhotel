@@ -1092,6 +1092,57 @@ body {
     width: calc(100% - 3.334em + 2rem);
   }
 }
+.cid-qOfqn3wwUJ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qOfqn3wwUJ .row {
+  flex-direction: row-reverse;
+}
+.cid-qOfqn3wwUJ .underline .line {
+  width: 2rem;
+  height: 1px;
+  background: #878787;
+  display: inline-block;
+}
+.cid-qOfqn3wwUJ .image-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0;
+}
+.cid-qOfqn3wwUJ .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-qOfqn3wwUJ .text-element {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-qOfqn3wwUJ .mbr-section-subtitle,
+.cid-qOfqn3wwUJ .mbr-text {
+  color: #878787;
+}
+.cid-qOfqn3wwUJ .mbr-text {
+  line-height: 27px;
+  padding: 2.5rem;
+  margin: 0;
+}
+@media (max-width: 991px) {
+  .cid-qOfqn3wwUJ .row {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .cid-qOfqn3wwUJ .text-element {
+    padding-top: 0;
+  }
+}
 .cid-qOfeX7utaQ {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1741,6 +1792,57 @@ body {
     left: calc(1.667em - 1rem);
     bottom: 0.538px;
     width: calc(100% - 3.334em + 2rem);
+  }
+}
+.cid-qOfreGVoWe {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qOfreGVoWe .row {
+  flex-direction: row-reverse;
+}
+.cid-qOfreGVoWe .underline .line {
+  width: 2rem;
+  height: 1px;
+  background: #878787;
+  display: inline-block;
+}
+.cid-qOfreGVoWe .image-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0;
+}
+.cid-qOfreGVoWe .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-qOfreGVoWe .text-element {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-qOfreGVoWe .mbr-section-subtitle,
+.cid-qOfreGVoWe .mbr-text {
+  color: #878787;
+}
+.cid-qOfreGVoWe .mbr-text {
+  line-height: 27px;
+  padding: 2.5rem;
+  margin: 0;
+}
+@media (max-width: 991px) {
+  .cid-qOfreGVoWe .row {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .cid-qOfreGVoWe .text-element {
+    padding-top: 0;
   }
 }
 .cid-qOf96i3016 {
